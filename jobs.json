@@ -81,7 +81,7 @@
   },
   "NEW-Medium-KOR-Gather-2": {
     "inGameName": "Mining Bot",
-    "description": "Our engineers have designed an autonomous mining bot. Bring us Zero Systems CPUs and some Ball Bearings for the prototype.",
+    "description": "Our engineers have designed an autonomous mining bot. Bring us a Zero Systems CPU and some Ball Bearings for the prototype.",
     "faction": "Korolev",
     "factionReputation": 62,
     "difficulty": "Medium",
@@ -735,10 +735,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -1250,10 +1246,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -1757,10 +1749,6 @@
           ],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -1807,10 +1795,6 @@
           ],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Rattler",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -1855,10 +1839,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -1905,10 +1885,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Weremole",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -1953,10 +1929,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Rattler",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -1972,10 +1944,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Weremole",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2022,10 +1990,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2072,10 +2036,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Weremole",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2089,10 +2049,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Rattler",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2137,10 +2093,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2189,10 +2141,6 @@
           ],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Weremole",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2237,10 +2185,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Rattler",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2256,10 +2200,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Strider",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2306,10 +2246,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2356,10 +2292,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Rattler",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2406,10 +2338,6 @@
           ],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2454,10 +2382,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Weremole",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2471,10 +2395,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Rattler",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2519,10 +2439,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2538,10 +2454,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2588,10 +2500,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Strider",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2638,10 +2546,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2688,10 +2592,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Crusher",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2736,10 +2636,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Rattler",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2755,10 +2651,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Strider",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2808,10 +2700,6 @@
           ],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Crusher",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2856,10 +2744,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Weremole",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2906,10 +2790,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Weremole",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2956,10 +2836,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Weremole",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2975,10 +2851,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Rattler",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -2994,10 +2866,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Strider",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -3044,10 +2912,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -3094,10 +2958,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -3213,10 +3073,6 @@
             }
           ],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -3263,10 +3119,6 @@
           ],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -3282,10 +3134,6 @@
           ],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -3338,10 +3186,6 @@
             }
           ],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -3363,10 +3207,6 @@
             }
           ],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Weremole",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -3468,10 +3308,6 @@
             }
           ],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -3516,10 +3352,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -3566,10 +3398,6 @@
           ],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -3622,10 +3450,6 @@
             }
           ],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -3647,10 +3471,6 @@
             }
           ],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Rattler",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -3672,10 +3492,6 @@
             }
           ],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Strider",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -3720,10 +3536,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -3827,10 +3639,6 @@
             }
           ],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -3875,10 +3683,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -3894,10 +3698,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -3994,10 +3794,6 @@
             }
           ],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -4042,10 +3838,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -4061,10 +3853,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -4119,10 +3907,6 @@
             }
           ],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -4173,10 +3957,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::GlowBeetle_Blast",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -4264,10 +4044,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::GlowBeetle_Acid",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -5126,10 +4902,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -5840,10 +5612,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -6078,10 +5846,6 @@
             }
           ],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -6126,10 +5890,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -6274,10 +6034,6 @@
           ],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::Weremole",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "",
           "m_onlyDuringStorm": false
         },
@@ -6883,10 +6639,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "MP_AlienCaverns_P",
           "m_onlyDuringStorm": false
         },
@@ -6900,10 +6652,6 @@
           "m_allowedWeaponCategories": [],
           "m_allowedSpecificWeapons": [],
           "m_specificAIEnemyTypeToKill": "EYEnemyType::None",
-          "m_specificVariationToKill": {
-            "DataTable": null,
-            "RowName": "None"
-          },
           "m_mapName": "MP_AlienCaverns_P",
           "m_onlyDuringStorm": false
         },

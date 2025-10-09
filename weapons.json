@@ -42,11 +42,6 @@
       {
         "shop": "Korolev",
         "SoftCurrency": 56000
-      },
-      {
-        "shop": "CraftingStation",
-        "SoftCurrency": 14000,
-        "Event_MeteorFragment": 50
       }
     ],
     "modSlots": [
@@ -144,8 +139,8 @@
     "directDamageEnemyMultiplier": 1,
     "radialDamagePlayerMultiplier": 1,
     "radialDamageEnemyMultiplier": 1,
-    "FalloffStart": 1000,
-    "FalloffEnd": 4000,
+    "FalloffStart": 2000,
+    "FalloffEnd": 5000,
     "FalloffMultiplier": 0.7,
     "unequipTime": 0.5,
     "equipTime": 0.8,
@@ -211,12 +206,6 @@
       {
         "shop": "Korolev",
         "SoftCurrency": 161000
-      },
-      {
-        "shop": "CraftingStation",
-        "SoftCurrency": 40250,
-        "Event_MeteorCore": 1,
-        "Event_MeteorFragment": 40
       }
     ],
     "modSlots": [
@@ -273,11 +262,6 @@
       {
         "shop": "Korolev",
         "SoftCurrency": 76000
-      },
-      {
-        "shop": "CraftingStation",
-        "SoftCurrency": 19000,
-        "Event_MeteorFragment": 25
       }
     ],
     "modSlots": [
@@ -300,7 +284,7 @@
     ],
     "weight": 60,
     "sellValue": 325513,
-    "buyValue": 271250,
+    "buyValue": 1085000,
     "faction": "CraftingStation",
     "factionRep": 3255,
     "penetration": 33,
@@ -333,8 +317,11 @@
     "cost": [
       {
         "shop": "CraftingStation",
-        "SoftCurrency": 271250,
-        "Event_MeteorCore": 5
+        "SoftCurrency": 1085000,
+        "Letium": 75,
+        "MeteorCore": 10,
+        "Datapad": 25,
+        "AlphaWardenHeart": 3
       }
     ],
     "modSlots": []
@@ -429,11 +416,6 @@
       {
         "shop": "ICA",
         "SoftCurrency": 41000
-      },
-      {
-        "shop": "CraftingStation",
-        "SoftCurrency": 10250,
-        "Event_MeteorFragment": 25
       }
     ],
     "modSlots": [
@@ -460,7 +442,7 @@
     "faction": "ICA",
     "factionRep": 342,
     "penetration": 30,
-    "directDamage": 8,
+    "directDamage": 9,
     "radialDamage": 0,
     "refireTime": 0.075,
     "reloadTime": 2.54,
@@ -478,8 +460,8 @@
     "directDamageEnemyMultiplier": 1,
     "radialDamagePlayerMultiplier": 1,
     "radialDamageEnemyMultiplier": 1,
-    "FalloffStart": 1000,
-    "FalloffEnd": 4000,
+    "FalloffStart": 2000,
+    "FalloffEnd": 5000,
     "FalloffMultiplier": 0.7,
     "unequipTime": 0.5,
     "equipTime": 0.8,
@@ -490,12 +472,6 @@
       {
         "shop": "ICA",
         "SoftCurrency": 114000
-      },
-      {
-        "shop": "CraftingStation",
-        "SoftCurrency": 28500,
-        "Event_MeteorCore": 1,
-        "Event_MeteorFragment": 40
       }
     ],
     "modSlots": [
@@ -607,11 +583,6 @@
       {
         "shop": "ICA",
         "SoftCurrency": 58000
-      },
-      {
-        "shop": "CraftingStation",
-        "SoftCurrency": 14500,
-        "Event_MeteorFragment": 25
       }
     ],
     "modSlots": [
@@ -724,11 +695,6 @@
       {
         "shop": "ICA",
         "SoftCurrency": 315000
-      },
-      {
-        "shop": "CraftingStation",
-        "SoftCurrency": 78750,
-        "Event_MeteorCore": 3
       }
     ],
     "modSlots": [
@@ -881,8 +847,8 @@
     "directDamageEnemyMultiplier": 1,
     "radialDamagePlayerMultiplier": 1,
     "radialDamageEnemyMultiplier": 1,
-    "FalloffStart": 1000,
-    "FalloffEnd": 4000,
+    "FalloffStart": 2000,
+    "FalloffEnd": 5000,
     "FalloffMultiplier": 0.7,
     "unequipTime": 0.5,
     "equipTime": 0.8,
@@ -1026,8 +992,8 @@
     ],
     "weight": 25,
     "sellValue": 124,
-    "buyValue": 410,
-    "faction": "None",
+    "buyValue": null,
+    "faction": null,
     "factionRep": 1,
     "penetration": 5,
     "directDamage": 8,
@@ -1068,8 +1034,8 @@
     ],
     "weight": 30,
     "sellValue": 124,
-    "buyValue": 410,
-    "faction": "None",
+    "buyValue": null,
+    "faction": null,
     "factionRep": 1,
     "penetration": 5,
     "directDamage": 9,
@@ -1090,8 +1056,8 @@
     "directDamageEnemyMultiplier": 1,
     "radialDamagePlayerMultiplier": 1,
     "radialDamageEnemyMultiplier": 1,
-    "FalloffStart": 1000,
-    "FalloffEnd": 4000,
+    "FalloffStart": 2000,
+    "FalloffEnd": 5000,
     "FalloffMultiplier": 0.7,
     "unequipTime": 0.5,
     "equipTime": 0.8,
@@ -1110,8 +1076,8 @@
     ],
     "weight": 35,
     "sellValue": 175,
-    "buyValue": 580,
-    "faction": "None",
+    "buyValue": null,
+    "faction": null,
     "factionRep": 2,
     "penetration": 5,
     "directDamage": 12,
@@ -1227,8 +1193,8 @@
     "directDamageEnemyMultiplier": 1,
     "radialDamagePlayerMultiplier": 1,
     "radialDamageEnemyMultiplier": 1,
-    "FalloffStart": 1000,
-    "FalloffEnd": 4000,
+    "FalloffStart": 2000,
+    "FalloffEnd": 5000,
     "FalloffMultiplier": 0.7,
     "unequipTime": 0.5,
     "equipTime": 0.8,
@@ -1239,11 +1205,6 @@
       {
         "shop": "Osiris",
         "SoftCurrency": 41000
-      },
-      {
-        "shop": "CraftingStation",
-        "SoftCurrency": 10250,
-        "Event_MeteorFragment": 25
       }
     ],
     "modSlots": [
@@ -1356,11 +1317,6 @@
       {
         "shop": "Osiris",
         "SoftCurrency": 58000
-      },
-      {
-        "shop": "CraftingStation",
-        "SoftCurrency": 14500,
-        "Event_MeteorFragment": 25
       }
     ],
     "modSlots": [
@@ -1443,7 +1399,7 @@
     "penetration": 30,
     "directDamage": 34,
     "radialDamage": 0,
-    "refireTime": 0.6,
+    "refireTime": 0.5,
     "reloadTime": 3.85,
     "ammoInClip": 8,
     "ammoType": "Heavy",
@@ -1452,7 +1408,7 @@
     "burstInterval": -1,
     "amountOfImmediateFires": 1,
     "movementSpeedMultiplier": 0.8,
-    "projectileSpeed": 45000,
+    "projectileSpeed": 54000,
     "weakDamageMultiplier": 1.6,
     "weakDamageMultiplierEnemy": 1,
     "directDamagePlayerMultiplier": 1,
@@ -1471,11 +1427,6 @@
       {
         "shop": "Osiris",
         "SoftCurrency": 210000
-      },
-      {
-        "shop": "CraftingStation",
-        "SoftCurrency": 52500,
-        "Event_MeteorCore": 3
       }
     ],
     "modSlots": [
@@ -1498,8 +1449,8 @@
     ],
     "weight": 60,
     "sellValue": 117760,
-    "buyValue": 393000,
-    "faction": "None",
+    "buyValue": null,
+    "faction": null,
     "factionRep": 1178,
     "penetration": 10,
     "directDamage": 250,
@@ -1540,7 +1491,7 @@
     ],
     "weight": 60,
     "sellValue": 297815,
-    "buyValue": 248250,
+    "buyValue": 993000,
     "faction": "CraftingStation",
     "factionRep": 2978,
     "penetration": 33,
@@ -1573,8 +1524,11 @@
     "cost": [
       {
         "shop": "CraftingStation",
-        "SoftCurrency": 248250,
-        "Event_MeteorCore": 5
+        "SoftCurrency": 993000,
+        "OilTank": 30,
+        "MeteorCore": 10,
+        "DerelictExplosives": 20,
+        "AI_CrusherMeat": 8
       }
     ],
     "modSlots": []
@@ -1588,8 +1542,8 @@
     ],
     "weight": 60,
     "sellValue": 51258,
-    "buyValue": 171000,
-    "faction": "None",
+    "buyValue": null,
+    "faction": null,
     "factionRep": 513,
     "penetration": 10,
     "directDamage": 0,
@@ -1630,8 +1584,8 @@
     ],
     "weight": 60,
     "sellValue": 51258,
-    "buyValue": 171000,
-    "faction": "None",
+    "buyValue": null,
+    "faction": null,
     "factionRep": 513,
     "penetration": 20,
     "directDamage": 0,
@@ -1672,7 +1626,7 @@
     ],
     "weight": 60,
     "sellValue": 270540,
-    "buyValue": 225500,
+    "buyValue": 902000,
     "faction": "CraftingStation",
     "factionRep": 2705,
     "penetration": 33,
@@ -1705,8 +1659,11 @@
     "cost": [
       {
         "shop": "CraftingStation",
-        "SoftCurrency": 225500,
-        "Event_MeteorCore": 5
+        "SoftCurrency": 902000,
+        "AlphaWardenHeart": 3,
+        "MeteorCore": 10,
+        "Gyroscope": 3,
+        "AI_WeremoleMeat_02": 10
       }
     ],
     "modSlots": []
@@ -1720,8 +1677,8 @@
     ],
     "weight": 20,
     "sellValue": 76,
-    "buyValue": 250,
-    "faction": "None",
+    "buyValue": null,
+    "faction": null,
     "factionRep": 1,
     "penetration": 5,
     "directDamage": 13,

@@ -93,7 +93,9 @@
       {
         "shop": "CraftingStation",
         "SoftCurrency": 6100,
-        "Event_MeteorFragment": 6
+        "Fabrics": 2,
+        "IvyPlant": 1,
+        "PureNickel": 3
       }
     ]
   },
@@ -154,7 +156,12 @@
       "maxPrice": 100,
       "durabilityBrokenPriceModifier": 1
     },
-    "cost": []
+    "cost": [
+      {
+        "shop": "None",
+        "SoftCurrency": 18000
+      }
+    ]
   },
   "Bag_Altered_02": {
     "inGameName": "Gigantic Forged Backpack",
@@ -171,7 +178,12 @@
       "maxPrice": 100,
       "durabilityBrokenPriceModifier": 1
     },
-    "cost": []
+    "cost": [
+      {
+        "shop": "None",
+        "SoftCurrency": 32000
+      }
+    ]
   },
   "Bag_Altered_03": {
     "inGameName": "Monstrous Forged Backpack",
@@ -188,39 +200,11 @@
       "maxPrice": 100,
       "durabilityBrokenPriceModifier": 1
     },
-    "cost": []
-  },
-  "Bag_02_Event_StaminaRegenDelay": {
-    "inGameName": "Storm Diver Backpack - Vigor",
-    "rarity": "Uncommon",
-    "weight": 30,
-    "weightLimit": 250,
-    "durability": -1,
-    "sellValue": 405,
-    "factionRep": 4,
-    "repair": {
-      "baseCost": 100,
-      "costModifierBroken": 100,
-      "maxPrice": 100,
-      "durabilityBrokenPriceModifier": 1
-    },
-    "cost": []
-  },
-  "Bag_02_Event_StormProt": {
-    "inGameName": "Storm Diver Backpack - Grounded",
-    "description": "Makeshift backpack built with Progenitor materials; can absorb some energy from lightning strikes.",
-    "rarity": "Uncommon",
-    "weight": 30,
-    "weightLimit": 250,
-    "durability": -1,
-    "sellValue": 405,
-    "factionRep": 4,
-    "repair": {
-      "baseCost": 100,
-      "costModifierBroken": 100,
-      "maxPrice": 100,
-      "durabilityBrokenPriceModifier": 1
-    },
-    "cost": []
+    "cost": [
+      {
+        "shop": "None",
+        "SoftCurrency": 48000
+      }
+    ]
   }
 }

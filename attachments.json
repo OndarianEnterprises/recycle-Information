@@ -258,7 +258,9 @@
       {
         "shop": "CraftingStation",
         "SoftCurrency": 8000,
-        "Event_MeteorFragment": 4
+        "HydraulicPiston": 5,
+        "MultiTool": 2,
+        "RareVeltecite": 1
       }
     ]
   },
@@ -792,7 +794,9 @@
       {
         "shop": "CraftingStation",
         "SoftCurrency": 8000,
-        "Event_MeteorFragment": 4
+        "HydraulicPiston": 5,
+        "MultiTool": 2,
+        "RareVeltecite": 1
       }
     ]
   },
@@ -846,7 +850,9 @@
       {
         "shop": "CraftingStation",
         "SoftCurrency": 8000,
-        "Event_MeteorFragment": 4
+        "HydraulicPiston": 5,
+        "MultiTool": 2,
+        "RareVeltecite": 1
       }
     ]
   },
@@ -900,7 +906,9 @@
       {
         "shop": "CraftingStation",
         "SoftCurrency": 8000,
-        "Event_MeteorFragment": 4
+        "HydraulicPiston": 5,
+        "MultiTool": 2,
+        "RareVeltecite": 1
       }
     ]
   },
@@ -1019,7 +1027,9 @@
       {
         "shop": "CraftingStation",
         "SoftCurrency": 8000,
-        "Event_MeteorFragment": 4
+        "HydraulicPiston": 5,
+        "MultiTool": 2,
+        "RareVeltecite": 1
       }
     ]
   },
@@ -1138,7 +1148,9 @@
       {
         "shop": "CraftingStation",
         "SoftCurrency": 8000,
-        "Event_MeteorFragment": 4
+        "HydraulicPiston": 5,
+        "MultiTool": 2,
+        "RareVeltecite": 1
       }
     ]
   },
@@ -1257,7 +1269,9 @@
       {
         "shop": "CraftingStation",
         "SoftCurrency": 8000,
-        "Event_MeteorFragment": 4
+        "HydraulicPiston": 5,
+        "MultiTool": 2,
+        "RareVeltecite": 1
       }
     ]
   },
@@ -1376,7 +1390,9 @@
       {
         "shop": "CraftingStation",
         "SoftCurrency": 8000,
-        "Event_MeteorFragment": 4
+        "HydraulicPiston": 5,
+        "MultiTool": 2,
+        "RareVeltecite": 1
       }
     ]
   },
@@ -1440,7 +1456,9 @@
       {
         "shop": "CraftingStation",
         "SoftCurrency": 8000,
-        "Event_MeteorFragment": 4
+        "HydraulicPiston": 5,
+        "MultiTool": 2,
+        "RareVeltecite": 1
       }
     ]
   },
@@ -1504,7 +1522,9 @@
       {
         "shop": "CraftingStation",
         "SoftCurrency": 8000,
-        "Event_MeteorFragment": 4
+        "HydraulicPiston": 5,
+        "MultiTool": 2,
+        "RareVeltecite": 1
       }
     ]
   },
@@ -1726,7 +1746,8 @@
       {
         "shop": "CraftingStation",
         "SoftCurrency": 8000,
-        "Event_MeteorFragment": 4
+        "ShockAbsorber": 1,
+        "MiniatureReactor": 1
       }
     ]
   },
@@ -1934,7 +1955,8 @@
       {
         "shop": "CraftingStation",
         "SoftCurrency": 8000,
-        "Event_MeteorFragment": 4
+        "ShockAbsorber": 1,
+        "MultiTool": 2
       }
     ]
   },
@@ -2175,7 +2197,9 @@
       {
         "shop": "CraftingStation",
         "SoftCurrency": 8000,
-        "Event_MeteorFragment": 8
+        "HydraulicPiston": 5,
+        "AutoLoader": 1,
+        "TitanOre": 1
       }
     ]
   },
@@ -2229,7 +2253,9 @@
       {
         "shop": "CraftingStation",
         "SoftCurrency": 8000,
-        "Event_MeteorFragment": 8
+        "HydraulicPiston": 5,
+        "AutoLoader": 1,
+        "TitanOre": 1
       }
     ]
   },
@@ -2283,7 +2309,9 @@
       {
         "shop": "CraftingStation",
         "SoftCurrency": 8000,
-        "Event_MeteorFragment": 8
+        "HydraulicPiston": 5,
+        "AutoLoader": 1,
+        "MagneticFieldStabilizer": 5
       }
     ]
   },
@@ -2337,7 +2365,9 @@
       {
         "shop": "CraftingStation",
         "SoftCurrency": 8000,
-        "Event_MeteorFragment": 8
+        "HydraulicPiston": 5,
+        "AutoLoader": 1,
+        "DerelictExplosives": 1
       }
     ]
   },
@@ -2415,7 +2445,9 @@
       {
         "shop": "CraftingStation",
         "SoftCurrency": 8000,
-        "Event_MeteorFragment": 4
+        "HydraulicPiston": 5,
+        "AutoLoader": 1,
+        "TitanOre": 1
       }
     ]
   },
@@ -2493,7 +2525,9 @@
       {
         "shop": "CraftingStation",
         "SoftCurrency": 8000,
-        "Event_MeteorFragment": 4
+        "HydraulicPiston": 5,
+        "AutoLoader": 1,
+        "TitanOre": 1
       }
     ]
   },
@@ -2687,7 +2721,9 @@
       {
         "shop": "CraftingStation",
         "SoftCurrency": 8000,
-        "Event_MeteorFragment": 4
+        "HydraulicPiston": 5,
+        "MultiTool": 2,
+        "RareVeltecite": 1
       }
     ]
   },
@@ -2854,7 +2890,8 @@
       {
         "shop": "CraftingStation",
         "SoftCurrency": 8000,
-        "Event_MeteorFragment": 4
+        "PrintResin": 2,
+        "OpticGlass": 3
       }
     ]
   },
@@ -2885,7 +2922,8 @@
       {
         "shop": "CraftingStation",
         "SoftCurrency": 8000,
-        "Event_MeteorFragment": 4
+        "PrintResin": 2,
+        "OpticGlass": 3
       }
     ]
   },
@@ -2916,7 +2954,8 @@
       {
         "shop": "CraftingStation",
         "SoftCurrency": 8000,
-        "Event_MeteorFragment": 4
+        "PrintResin": 2,
+        "OpticGlass": 3
       }
     ]
   },
